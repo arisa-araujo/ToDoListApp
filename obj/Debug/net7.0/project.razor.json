@@ -18660,6 +18660,26 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\dev\\ToDoList\\Views\\Todo\\Index.cshtml",
+      "TargetPath": "Views\\Todo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dev\\ToDoList\\Views\\Todo\\Edit.cshtml",
+      "TargetPath": "Views\\Todo\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dev\\ToDoList\\Views\\Todo\\Details.cshtml",
+      "TargetPath": "Views\\Todo\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dev\\ToDoList\\Views\\Todo\\Create.cshtml",
+      "TargetPath": "Views\\Todo\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\dev\\ToDoList\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -18667,6 +18687,11 @@
     {
       "FilePath": "c:\\dev\\ToDoList\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dev\\ToDoList\\Views\\Todo\\Delete.cshtml",
+      "TargetPath": "Views\\Todo\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
